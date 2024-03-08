@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+mport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -9,7 +9,7 @@ import axios from 'axios'
 global.owner = [
   ['918360234087', 'WHITE', true], 
   ['233208179431', 'kakashi', true],
-  ['+263712268496', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
+  ['+263712268496', '𝙎𝘼𝙇𝙈𝘼𝙉 kakashi -(𝘼𝙝𝙢𝙢𝙞)', true], 
   ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
   ['233533763772', 'Abraham Dwamena2', true],
   ['233531910067', 'Abraham Dwamena3', true],
